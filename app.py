@@ -1,3 +1,3 @@
-# app.py (CON ERROR)
+# app.py (CORREGIDO)
 def suma(a, b):
-    return a - b  # ❌ ERROR: debería ser a + b
+    return a + b  # ✅ CORRECTO
